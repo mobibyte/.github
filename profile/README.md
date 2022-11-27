@@ -22,5 +22,6 @@ We focus on computer science, mobile development, and web development.
  <a href="https://twitter.com/utamobi">Twitter</a> |
  <a href="https://www.instagram.com/mobiuta/">Instagram</a> |
  <a href="https://www.facebook.com/MOBI.UTA/">Facebook</a> |
- <a href="https://www.linkedin.com/in/mobi-at-uta/">LinkedIn</a>
+ <a href="https://www.linkedin.com/in/mobi-at-uta/">LinkedIn</a> |
+ <a href="https://www.youtube.com/mobi-uta">YouTube</a>
 </p>
