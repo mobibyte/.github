@@ -16,7 +16,7 @@ We focus on computer science, mobile development, and web development.
 ----
 
 <p align="center">
- <a href="https://uta.mobi/">Website</a> |
+ <a href="https://codewith.mobi/">Website</a> |
  <a href="https://discord.gg/edTYppVYgA">Discord</a> |
  <a href="https://mavorgs.campuslabs.com/engage/organization/Mobi">MavOrgs</a> |
  <a href="https://twitter.com/utamobi">Twitter</a> |
